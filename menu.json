@@ -1,1 +1,1326 @@
-{}
+{
+  "testi": {
+    "Info": "Fino alle ore 10:30 la colazione ai tavoli è servita con i prezzi del banco.\n\nDa Maggio a Settembre (Condizioni metereologiche permettendo) nelle ore serali il Roof&Sky salperà per poi ormeggiare al centro del lago fino ad orario di chiusura.\n\nIn qualsiasi momento dal molo sarà possibile raggiungerci tramite le nostre navette.\n\nServizio ai tavoli € 3,00 quando non attaccati al pontile.\n\nIn navigazione la caffetteria resta chiusa.",
+    "Allergeni": "Elenco Allergeni per i quali sussiste l'obbligo di indicazione in etichetta, Allegato III bis (Direttiva 2003/89/CE e ss. mm.)\n\nGLUTINE\nCereali, grano, segale, orzo, avena, farro, kamut, ınclusı ibridati e derivati.\n\nCROSTACEI E DERIVATI\nSia quelli marini che d'acqua dolce: gamberi, scampi, aragoste, granchi, paguri e simili.\n\nUOVA E DERIVATI\nTutti i prodotti composti con uova, anche in parte minima. Tra le più comuni: maionese, frittata, emulsionanti, pasta all'uovo, biscotti e torte anche salate, gelati e creme ecc.\n\nPESCE E DERIVAȚI\nInclusi i derivati, cioè tutti quei prodotti alimentari che si compongono di pesce anche se in piccole percentuali.\n\nARACHIDI E DERIVATI\nSnack confezionati, creme e condimenti in cui vi sia anche in piccole dosi.\n\nSOIA E DERIVATI\nLatte, tofu, spaghetti, etc.\n\nLATTE E DERIVATI\nYogurt, biscotti e torte, gelato e creme varie. Ogni prodotto in cui viene usato il latte.\n\nFRUTTA A GUSCIO E DERIVATI\nTutti i prodotti che includono: mandorle, nocciole, noci comuni, noci di acagiù, noci pecan e del Brasile e Queensland, pistacchi.\n\nSEDANO E DERIVATI\nPresente in pezzi ma pure all'interno di preparati per zuppe, salse e concentrati vegetali.\n\nSENAPE E DERIVATI\nSi può trovare nelle salse e nei condimenti, specie nella mostarda.\n\nSEMI DI SESAMO E DERIVATI\nOltre ai semi interi usati per il pane, possiamo trovare tracce in alcuni tipi di farine.\n\nANIDRIDE SOLFOROSA E SOLFITI IN CONCENTRAZIONI SUPERIORI A 10MG/KG O 10MG/L ESPRESSI COME S02\nUsati come conservanti, possiamo trovarli in: conserve di prodotti ittici, in cibi sott'aceto, sott'olio e in salamoia, nelle marmellate, nell'aceto, nei funghi secchi e nelle bibite analcoliche e succhi di frutta.\n\nLUPINO E DERIVATI\nPresente ormai in molti cibi vegan, sotto forma di arrosti, salamini, farine e similari che hanno come base questo legume, ricco di proteine.\n\nMOLLUSCHI E DERIVATI\nCanestrello, cannolicchio, capasanta, cuore, dattero di mare, fasolaro, garagolo, lumachino, cozza, murice, ostrica, patella, tartufo di mare, tellina e vongola etc."
+  },
+  "sezioni": {
+    "Food": {
+      "sottocategorie": {
+        "FRUTTA": [
+          {
+            "nome": "Fragole",
+            "prezzo": "€ 8,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Ananas",
+            "prezzo": "€ 8,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Composta di Frutta ",
+            "prezzo": "€ 13,00",
+            "descrizione": ""
+          }
+        ],
+        "DA MANGIARE": [
+          {
+            "nome": "Caprese",
+            "prezzo": "€ 8,00",
+            "descrizione": "Mozzarella - Pomodoro - Basilico"
+          },
+          {
+            "nome": "Crepes Salate",
+            "prezzo": "€ 8,00",
+            "descrizione": "- Rucola, scaglie, pomodoro.\n- Ricotta, salame.\n- Speck, provola."
+          },
+          {
+            "nome": "Saltimbocca",
+            "prezzo": "€ 8,00",
+            "descrizione": "- Rucola, scaglie, pomodoro.\n- Ricotta, salame.\n- Speck, provola."
+          },
+          {
+            "nome": "Tagliere",
+            "prezzo": "€ 22,00",
+            "descrizione": "Salumi e formaggi."
+          },
+          {
+            "nome": "Tonno Affumicato",
+            "prezzo": "€ 12,00",
+            "descrizione": "Con aceto balsamico e insalatina di rinforzo - Peperoncino"
+          },
+          {
+            "nome": "Supplemento Snack",
+            "prezzo": "€ 1,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Supplemento Biscotti",
+            "prezzo": "€ 1,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Chiedi al personale di sala i contorni del giorno",
+            "prezzo": "",
+            "descrizione": ""
+          }
+        ]
+      }
+    },
+    "Vini": {
+      "sottocategorie": {
+        "CALICE": [
+          {
+            "nome": "Brachetto",
+            "prezzo": "€ 8,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Ca' Del Bosco Cuvèe Prestige",
+            "prezzo": "€ 12,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Prosecco",
+            "prezzo": "€ 8,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Falanghina",
+            "prezzo": "€ 6,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Fiano",
+            "prezzo": "€ 8,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Greco",
+            "prezzo": "€ 8,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Piedirosso",
+            "prezzo": "€ 6,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Primitivo",
+            "prezzo": "€ 8,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Merlot",
+            "prezzo": "€ 8,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Nero d'Avola",
+            "prezzo": "€ 8,00",
+            "descrizione": ""
+          }
+        ],
+        "VINI ROSSI": [
+          {
+            "nome": "Piedirosso Campi Flegrei La Sibilla",
+            "prezzo": "€ 20,00",
+            "descrizione": "Campania"
+          },
+          {
+            "nome": "Aglianico Villa Raiano",
+            "prezzo": "€ 28,00",
+            "descrizione": "Campania"
+          },
+          {
+            "nome": "Tirannus Primitivo di Manduria Torleanzi",
+            "prezzo": "€ 28,00",
+            "descrizione": "Puglia"
+          },
+          {
+            "nome": "Nero d'Avola Colosi",
+            "prezzo": "€ 26,00",
+            "descrizione": "Sicilia"
+          },
+          {
+            "nome": "Merlot Casali Roncali",
+            "prezzo": "€ 25,00",
+            "descrizione": "Friuli Venezia Giulia"
+          }
+        ],
+        "VINI BIANCHI": [
+          {
+            "nome": "Falangina Campi Flegrei DOP",
+            "prezzo": "€ 20,00",
+            "descrizione": "Campania"
+          },
+          {
+            "nome": "Biancolella Mazzella",
+            "prezzo": "€ 30,00",
+            "descrizione": "Campania"
+          },
+          {
+            "nome": "Fiano Villa Raiano",
+            "prezzo": "€ 28,00",
+            "descrizione": "Campania"
+          },
+          {
+            "nome": "Fiano Cavalier Pepe",
+            "prezzo": "€ 36,00",
+            "descrizione": "Campania"
+          },
+          {
+            "nome": "Kratos Fiano Luigi Maffini",
+            "prezzo": "€ 38,00",
+            "descrizione": "Campania"
+          },
+          {
+            "nome": "Fiano Guido Marsella",
+            "prezzo": "€ 40,00",
+            "descrizione": "Campania"
+          },
+          {
+            "nome": "Exultet Fiano Quinto Decimo",
+            "prezzo": "€ 65,00",
+            "descrizione": "Campania"
+          },
+          {
+            "nome": "Greco Villa Raiano",
+            "prezzo": "€ 28,00",
+            "descrizione": "Campania"
+          },
+          {
+            "nome": "Greco Cavalier Pepe",
+            "prezzo": "€ 36,00",
+            "descrizione": "Campania"
+          },
+          {
+            "nome": "Greco Guido Marsella",
+            "prezzo": "€ 40,00",
+            "descrizione": "Campania"
+          },
+          {
+            "nome": "Asprinio d'Aversa Guisa Terra Felix",
+            "prezzo": "€ 30,00",
+            "descrizione": "Campania"
+          },
+          {
+            "nome": "Mar Isa Bianco IGT Marisa Cuomo",
+            "prezzo": "€ 28,00",
+            "descrizione": "Campania"
+          },
+          {
+            "nome": "Pecorino Faraone",
+            "prezzo": "€ 25,00",
+            "descrizione": "Abruzzo"
+          },
+          {
+            "nome": "Pecorino Pasetti",
+            "prezzo": "€ 27,00",
+            "descrizione": "Abruzzo"
+          },
+          {
+            "nome": "Don Bosco Trebbiano d'Abruzzo Nestore Bosco",
+            "prezzo": "€ 28,00",
+            "descrizione": "Abruzzo"
+          },
+          {
+            "nome": "Passo alle Tremiti Sauvignon Tenimenti Grieco",
+            "prezzo": "€ 25,00",
+            "descrizione": "Marche"
+          },
+          {
+            "nome": "Tre Ripe Verdicchio dei Castelli di Jesi Pievalta",
+            "prezzo": "€ 28,00",
+            "descrizione": "Marche"
+          },
+          {
+            "nome": "Cervaro della Sala Antinori",
+            "prezzo": "€ 85,00",
+            "descrizione": "Umbria"
+          },
+          {
+            "nome": "K Collio Keber Edi",
+            "prezzo": "€ 40,00",
+            "descrizione": "Friuli Venezia Giulia"
+          },
+          {
+            "nome": "Merus Pinot Grigio Tiefenbrunner",
+            "prezzo": "€ 28,00",
+            "descrizione": "Trentino Alto Adige"
+          },
+          {
+            "nome": "Traminer Aromatico Tramin",
+            "prezzo": "€ 30,00",
+            "descrizione": "Trentino Alto Adige"
+          }
+        ]
+      }
+    },
+    "Birre": {
+      "prodotti": [
+        {
+          "nome": "Beck's",
+          "prezzo": "€ 6,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Corona",
+          "prezzo": "€ 6,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Leffe Blonde",
+          "prezzo": "€ 6,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Leffe Radieuse",
+          "prezzo": "€ 6,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Tennent's",
+          "prezzo": "€ 6,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Nastro Azzurro",
+          "prezzo": "€ 6,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Paulaner Weiss",
+          "prezzo": "€ 8,00",
+          "descrizione": ""
+        }
+      ]
+    },
+    "Dolci": {
+      "prodotti": [
+        {
+          "nome": "Crepes",
+          "prezzo": "€ 6,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Dolce del giorno",
+          "prezzo": "€ 7,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Coppa gelato",
+          "prezzo": "€ 7,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Frappè",
+          "prezzo": "€ 8,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Frullati",
+          "prezzo": "€ 7,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Granita",
+          "prezzo": "€ 5,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Supplemento Sciroppi ",
+          "prezzo": "€ 1,00",
+          "descrizione": ""
+        }
+      ]
+    },
+    "Bibite": {
+      "prodotti": [
+        {
+          "nome": "Acqua ",
+          "prezzo": "€ 1,50 ",
+          "descrizione": ""
+        },
+        {
+          "nome": "Succhi di Frutta",
+          "prezzo": "€ 5,00",
+          "descrizione": "Pesca - Albicocca - Pera - Ananas - Ace - Mela Verde - Pompelmo - Mirtillo - \nPomodoro"
+        },
+        {
+          "nome": "Bibite ",
+          "prezzo": "€ 6,00 ",
+          "descrizione": ""
+        },
+        {
+          "nome": "Aperitivi in Bottiglia ",
+          "prezzo": "€ 6,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Spremuta d'Arancia ",
+          "prezzo": "€ 6,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Ginger Beer ",
+          "prezzo": "€ 6,00",
+          "descrizione": ""
+        }
+      ]
+    },
+    "Cocktail": {
+      "sottocategorie": {
+        "SPRITZ": [
+          {
+            "nome": "Aperol - Campari - Martini - Midori",
+            "prezzo": "€ 9,00",
+            "descrizione": "Base alcolica - Spumante o Vino bianco - Soda"
+          }
+        ],
+        "MARTINI": [
+          {
+            "nome": "American Martini",
+            "prezzo": "€ 12,00",
+            "descrizione": "Dry gin - Bourbon whiskey"
+          },
+          {
+            "nome": "Apple Martini",
+            "prezzo": "€ 12,00",
+            "descrizione": "Vodka - Cointreau - Succo di limone - Sciroppo di zucchero - Succo di mela verde"
+          },
+          {
+            "nome": "Cocktail Martini",
+            "prezzo": "€ 12,00",
+            "descrizione": "Vermouth dry - Gin"
+          },
+          {
+            "nome": "Chocolate Martini",
+            "prezzo": "€ 12,00",
+            "descrizione": "Vodka - Crema di cacao scura - Cacao - Crema di latte"
+          },
+          {
+            "nome": "Dirty Martini",
+            "prezzo": "€ 12,00",
+            "descrizione": "Vermouth dry - Vodka"
+          },
+          {
+            "nome": "French Martini",
+            "prezzo": "€ 12,00",
+            "descrizione": "Vodka - Liquore di lamponi - Succo d'ananas"
+          },
+          {
+            "nome": "Espresso Martini",
+            "prezzo": "€ 12,00",
+            "descrizione": "Vodka - Kahlua - Sciroppo di zucchero - Caffè"
+          },
+          {
+            "nome": "Hawaiian Martini",
+            "prezzo": "€ 12,00",
+            "descrizione": "Gin - Vermouth bianco - Succo d'ananas"
+          },
+          {
+            "nome": "Lemon Drop Martini ",
+            "prezzo": "€ 12,00",
+            "descrizione": "Vodka - Triple sec - Succo di limone"
+          },
+          {
+            "nome": "Porn Star  Martini",
+            "prezzo": "€ 12,00",
+            "descrizione": "Passoa - Vodka alla vaniglia - Sciroppo passion - Prosecco"
+          },
+          {
+            "nome": "Ocean Martini",
+            "prezzo": "€ 12,00",
+            "descrizione": "Gin - Vermouth dry - Blu curaçao"
+          }
+        ],
+        "PESTATI": [
+          {
+            "nome": "Capirinha",
+            "prezzo": "€ 10,00",
+            "descrizione": "Carchaça - Lime - Zucchero di canna"
+          },
+          {
+            "nome": "Capirissima",
+            "prezzo": "€ 10,00",
+            "descrizione": "Rum bianco - Lime -  Zucchero di canna"
+          },
+          {
+            "nome": "Capiroska",
+            "prezzo": "€ 10,00",
+            "descrizione": "Vodka - Lime - Zucchero di canna\nGusti: Fragola - Melone - Ananas - Mela - Kiwi"
+          },
+          {
+            "nome": "Rum Cooler",
+            "prezzo": "€ 10,00",
+            "descrizione": "Rum bianco - Rum scuro - Zucchero di canna - Lime - Arancio - Ginger beer"
+          },
+          {
+            "nome": "Mojito",
+            "prezzo": "€ 10,00",
+            "descrizione": "Rum bianco - Zucchero di canna - Menta - Lime - Soda\nGusti: Fragola - Melone - Ananas - Mela - Kiwi..."
+          }
+        ],
+        "PROIBITI": [
+          {
+            "nome": "Aviation",
+            "prezzo": "€ 10,00",
+            "descrizione": "Gin - Maraschino - Succo lime - Creme de violette"
+          },
+          {
+            "nome": "Between the sheets",
+            "prezzo": "€ 10,00",
+            "descrizione": "Cognac - Rum bianco - Cointreau - Succo di limone"
+          },
+          {
+            "nome": "Boulievarder",
+            "prezzo": "€ 10,00",
+            "descrizione": "Bourbon - Vermouth rosso - Bitter"
+          },
+          {
+            "nome": "Champagne Cocktails",
+            "prezzo": "€ 10,00",
+            "descrizione": "Champagne - Cognac - Zolletta di zucchero - Angostura"
+          },
+          {
+            "nome": "French 75",
+            "prezzo": "€ 10,00",
+            "descrizione": "Gin - Succo di limone - Sciroppo di zucchero - Champagne"
+          },
+          {
+            "nome": "Mai Tai",
+            "prezzo": "€ 10,00",
+            "descrizione": "Rum bianco - Rum scuro - Dry orange - Orzata - Succo di limone"
+          },
+          {
+            "nome": "Manhattan",
+            "prezzo": "€ 10,00",
+            "descrizione": "Rye whiskey - Vermouth rosso - Angostura"
+          },
+          {
+            "nome": "Martinez",
+            "prezzo": "€ 10,00",
+            "descrizione": "Gin - Vermouth rosso - Maraschino - Orange bitter"
+          },
+          {
+            "nome": "Old Fashioned",
+            "prezzo": "€ 10,00",
+            "descrizione": "Bourbon - Angostura - Zolletta di zucchero"
+          },
+          {
+            "nome": "Rusy Nail",
+            "prezzo": "€ 10,00",
+            "descrizione": "Scotch whiskey - Drambuie"
+          },
+          {
+            "nome": "Sazerac",
+            "prezzo": "€ 10,00",
+            "descrizione": "Cognac - Assenzio - Peychaud's bitter - Zolletta di zucchero"
+          },
+          {
+            "nome": "Sea Breeze",
+            "prezzo": "€ 10,00",
+            "descrizione": "Vodka - Succo di pompelmo - Cranberry"
+          },
+          {
+            "nome": "Sidecar",
+            "prezzo": "€ 10,00",
+            "descrizione": "Cognac - Cointreau - Succo di limone"
+          },
+          {
+            "nome": "Vieux Carrè",
+            "prezzo": "€ 10,00",
+            "descrizione": "Rye - Whiskey - Cognac - Vermouth rosso - Bénédictine - Peychaud's bitter"
+          },
+          {
+            "nome": "Hanky Panky",
+            "prezzo": "€ 10,00",
+            "descrizione": "Gin - Vermouth rosso - Fernet branca"
+          },
+          {
+            "nome": "Last Word",
+            "prezzo": "€ 10,00",
+            "descrizione": "Gin - Maraschino - Chartreuse - Succo di lime"
+          },
+          {
+            "nome": "Paper Plane",
+            "prezzo": "€ 10,00",
+            "descrizione": "Bourbon - Amaro - Aperol - Succo di limone"
+          },
+          {
+            "nome": "Penicillin",
+            "prezzo": "€ 10,00",
+            "descrizione": "Scotch whiskey - Lagavulin - Succo di limone - Sciroppo di miele - Zenzero"
+          },
+          {
+            "nome": "Tommy's Margarita",
+            "prezzo": "€ 10,00",
+            "descrizione": "Tequila - Succo di limone - Sciroppo di agave"
+          }
+        ],
+        "SIGNATURE": [
+          {
+            "nome": "Mexican Negroni",
+            "prezzo": "€ 13,00",
+            "descrizione": "Mezcal - Campari - Vermouth - Acqua di Salamoia - Vaporizzazione di Assenzio"
+          },
+          {
+            "nome": "Esotic Negroni",
+            "prezzo": "€ 13,00",
+            "descrizione": "Gin - Infuso all' anans - Bitter - Infuso ai frutti rossi - Vermouth"
+          },
+          {
+            "nome": "Wasabi Cocktail",
+            "prezzo": "€ 13,00",
+            "descrizione": "Vodka - Succo di limone - Sciroppo di zucchero - Wasabi - Bitter allo zenzero"
+          },
+          {
+            "nome": "Camomilla",
+            "prezzo": "€ 13,00",
+            "descrizione": "Mezcal - Tequila - Succo di lime - Triple sciroppo - Soluzione salina - Soda alla camomilla"
+          },
+          {
+            "nome": "Ginger Mule",
+            "prezzo": "€ 13,00",
+            "descrizione": "Cordial lime - Gin mare - Zenzero - Zucchero - Ginger beer"
+          },
+          {
+            "nome": "Sorrento",
+            "prezzo": "€ 13,00",
+            "descrizione": "Limoncello - Campari - The ai frutti rossi"
+          },
+          {
+            "nome": "Snickers",
+            "prezzo": "€ 13,00",
+            "descrizione": "Vodka al burro di arachidi - Bourbon - Sciroppo di caramello salato - Bitter al cioccolato"
+          },
+          {
+            "nome": "Ace Supertonic",
+            "prezzo": "€ 13,00",
+            "descrizione": "Cordial arancia e limone - Vodka - Soda di carota arrostita"
+          },
+          {
+            "nome": "Banana Tiki",
+            "prezzo": "€ 13,00",
+            "descrizione": "Rum infuso alla banana - Succo di ananas - Lime - Sciroppo passion - Latte di mandorla - Angostura"
+          }
+        ],
+        "SPARKLING": [
+          {
+            "nome": "Bellini",
+            "prezzo": "€ 8,00",
+            "descrizione": "Spumante - Succo di pesca"
+          },
+          {
+            "nome": "Verdi",
+            "prezzo": "€ 8,00",
+            "descrizione": "Spumante - Succo di mela verde"
+          },
+          {
+            "nome": "Mimosa",
+            "prezzo": "€ 8,00",
+            "descrizione": "Spumante - Succo d'arancia"
+          },
+          {
+            "nome": "Rossini",
+            "prezzo": "€ 8,00",
+            "descrizione": "Spumante - Sciroppo di fragola"
+          },
+          {
+            "nome": "Hugo",
+            "prezzo": "€ 10,00",
+            "descrizione": "St. Germain - Spumante - Soda"
+          }
+        ],
+        "ANALCOLICI": [
+          {
+            "nome": "Copacabana",
+            "prezzo": "€ 8,00",
+            "descrizione": "Sciroppo di fragola - Succo d'arancia - Succo d'ananas"
+          },
+          {
+            "nome": "Passion Cucumber",
+            "prezzo": "€ 8,00",
+            "descrizione": "Cetriolo - Sciroppo d'arancio - Sciroppo passion - Succo di lime - Ginger beer"
+          },
+          {
+            "nome": "Ginger Camomilla",
+            "prezzo": "€ 8,00",
+            "descrizione": "Zenzero pestato - Succo di limone - Sciroppo di miele - Sciroppo d'arancia - Soda alla camomilla"
+          },
+          {
+            "nome": "Grapefruit Red",
+            "prezzo": "€ 8,00",
+            "descrizione": "Succo di limone - Sciroppo di zucchero - Succo di pompelmo - Soda ai frutti rossi"
+          },
+          {
+            "nome": "Virgin Paloma",
+            "prezzo": "€ 8,00",
+            "descrizione": "Succo di limone - Sciroppo d'Agave - Acqua salina - Pompelmo rosa"
+          }
+        ],
+        "CONTEMPORANEI": [
+          {
+            "nome": "Alexander",
+            "prezzo": "€ 10,00",
+            "descrizione": "Cognac - Crema cacao scura - Crema di latte"
+          },
+          {
+            "nome": "Angel Face",
+            "prezzo": "€ 10,00",
+            "descrizione": "Calvados - Gin - Apricot brandy"
+          },
+          {
+            "nome": "Bloody Mary",
+            "prezzo": "€ 10,00",
+            "descrizione": "Vodka - Succo di pomodoro - Succo di limone - Sale - Pepe - Worcestershire source - Tabasco"
+          },
+          {
+            "nome": "Casino",
+            "prezzo": "€ 10,00",
+            "descrizione": " Gin - Maraschino - Orange bitter - Succo di limone"
+          },
+          {
+            "nome": "Cosmopolitan",
+            "prezzo": "€ 10,00",
+            "descrizione": "Vodka - Cointreau - Cranberry - Succo di limone"
+          },
+          {
+            "nome": "Daiquiri",
+            "prezzo": "€ 10,00",
+            "descrizione": "Rum bianco - Succo di limone - Sciroppo di zucchero"
+          },
+          {
+            "nome": "Corpse Reviver #2",
+            "prezzo": "€ 10,00",
+            "descrizione": "Gin - Cointreau - Lillet blanc - Succo di limone - Assenzio"
+          },
+          {
+            "nome": "Gin Fizz",
+            "prezzo": "€ 10,00",
+            "descrizione": "Gin - Succo di limone - Sciroppo di zucchero - Soda"
+          },
+          {
+            "nome": "Hemingway",
+            "prezzo": "€ 10,00",
+            "descrizione": "Rum bianco - Maraschino - Succo di pompelmo - Succo di limone"
+          },
+          {
+            "nome": "Irish Coffee",
+            "prezzo": "€ 10,00",
+            "descrizione": "Irish whiskey - Caffè - Crema di latte - Zolletta di zucchero"
+          },
+          {
+            "nome": "Margarita",
+            "prezzo": "€ 10,00",
+            "descrizione": "Tequila - Cointreau - Succo di limone - Sale"
+          },
+          {
+            "nome": "New York Sour",
+            "prezzo": "€ 10,00",
+            "descrizione": "Bourbon - Succo di limone - Sciroppo di zucchero - Vino rosso"
+          },
+          {
+            "nome": "Remember the Main",
+            "prezzo": "€ 10,00",
+            "descrizione": "Rye whiskey - Maraschino - Vermouth rosso - Assenzio"
+          },
+          {
+            "nome": "Paloma",
+            "prezzo": "€ 10,00",
+            "descrizione": "Tequila - Succo di lime - Soda a pompelmo rosa - Sale"
+          },
+          {
+            "nome": "Naked and Famous",
+            "prezzo": "€ 10,00",
+            "descrizione": "Mezcal - Chartreuse - Aperol - Succo di lime"
+          },
+          {
+            "nome": "Suffering Bastard",
+            "prezzo": "€ 10,00",
+            "descrizione": "Cognac - Gin - Succo di lime - Angostura - Ginger beer"
+          },
+          {
+            "nome": "Cardinale",
+            "prezzo": "€ 10,00",
+            "descrizione": "Gin - Vermouth dry - Bitter Campari"
+          },
+          {
+            "nome": "Trinidad Sour",
+            "prezzo": "€ 10,00",
+            "descrizione": "Angostura - Orzata - Succo di limone - Rye whisky"
+          },
+          {
+            "nome": "South Side",
+            "prezzo": "€ 10,00",
+            "descrizione": "Gin - Succo di limone - Sciroppo di zucchero - Menta fresca"
+          }
+        ],
+        "QUELLI CHE VERRANNO": [
+          {
+            "nome": "Bee's Kness",
+            "prezzo": "€ 10,00",
+            "descrizione": "Gin - Sciroppo di miele - Succo di limone - Succo d'arancia"
+          },
+          {
+            "nome": "Tipperary",
+            "prezzo": "€ 10,00",
+            "descrizione": "Irish whisky - Vermouth rosso - Chartreuse - Angostura"
+          },
+          {
+            "nome": "Clover Club",
+            "prezzo": "€ 10,00",
+            "descrizione": "Gin - Sciroppo di lamponi - Succo di limone"
+          },
+          {
+            "nome": "Spicy Fifty",
+            "prezzo": "€ 10,00",
+            "descrizione": "Vodka a vaniglia - Lime - Sciroppo di miele - Peperoncino"
+          },
+          {
+            "nome": "Bramble",
+            "prezzo": "€ 10,00",
+            "descrizione": "Gin - Liquore a mirtillo - Sciroppo di zucchero - Succo di limone"
+          },
+          {
+            "nome": "Brandy Crusta",
+            "prezzo": "€ 10,00",
+            "descrizione": "Cognac - Maraschino - Orange curçao - Angostura - Succo di limone - Sciroppo di zucchero"
+          },
+          {
+            "nome": "Dark'n Stormy",
+            "prezzo": "€ 10,00",
+            "descrizione": "Rum scuro - Ginger beer"
+          },
+          {
+            "nome": "Mint Julep",
+            "prezzo": "€ 10,00",
+            "descrizione": "Burbon whiskey - Menta fresca - Zucchero - Acqua"
+          },
+          {
+            "nome": "Gin Basil Smash",
+            "prezzo": "€ 10,00",
+            "descrizione": "Gin - Succo di limone - Sciroppo di zucchero - Basilico"
+          },
+          {
+            "nome": "Russian Spring Punch",
+            "prezzo": "€ 10,00",
+            "descrizione": "Vodka - Crème de cassis - Sciroppo di zucchero - Succo di limone"
+          },
+          {
+            "nome": "Vesper",
+            "prezzo": "€ 10,00",
+            "descrizione": "Gin - Vodka - Vermouth bianco"
+          },
+          {
+            "nome": "Jungle Bird",
+            "prezzo": "€ 10,00",
+            "descrizione": "Rum scuro - Campari - Succo di ananas - Succo di Lime - Sciroppo di zucchero"
+          },
+          {
+            "nome": "Tuxedo",
+            "prezzo": "€ 10,00",
+            "descrizione": "Gin - Vermouth dry - Maraschino - Assenzio - Orange bitter"
+          },
+          {
+            "nome": "Salted Gold",
+            "prezzo": "€ 10,00",
+            "descrizione": "Vodka - Succo di mela chiarificato - Lime - Sciroppo di caramello salato - Sciroppo di zenzero - Soluzione salina"
+          },
+          {
+            "nome": "Old Cuban",
+            "prezzo": "€ 10,00",
+            "descrizione": "Menta fresca - Rum scuro - Lime - Sciroppo di zucchero - Angostura - Prosecco"
+          }
+        ]
+      }
+    },
+    "Bollicine": {
+      "sottocategorie": {
+        "CHAMPAGNE": [
+          {
+            "nome": "Bruno Paillard",
+            "prezzo": "€ 130,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Clicquot",
+            "prezzo": "€ 100,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "De Hours Terre De Meunier",
+            "prezzo": "€ 75,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Moet",
+            "prezzo": "€ 90,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Moet Ice",
+            "prezzo": "€ 140,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Mumm",
+            "prezzo": "€ 100,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Don Perignon Vintage 2008",
+            "prezzo": "€ 210,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Cristal Louis Roderer",
+            "prezzo": "€ 300,00",
+            "descrizione": ""
+          }
+        ],
+        "TRENTO DOC": [
+          {
+            "nome": "Monsupello",
+            "prezzo": "€ 60,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Farfalla Ballabio",
+            "prezzo": "€ 60,00",
+            "descrizione": ""
+          }
+        ],
+        "FRANCIACORTA": [
+          {
+            "nome": "Annamaria Clementi 2015 Ca' Del Bosco",
+            "prezzo": "€ 160,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Vintage Collection 2020 Dosage Zero Ca' Del Bosco",
+            "prezzo": "€ 90,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Vintage Collection  Saten 2019 Ca' Del Bosco",
+            "prezzo": "€ 90,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Vintage Collection Brut 2016 Ca' Del Bosco",
+            "prezzo": "€ 90,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Cuvée Prestige Ca' Del Bosco ",
+            "prezzo": "€ 70,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Animante Barone Pizzini ",
+            "prezzo": "€ 60,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Golf Barone Pizzini ",
+            "prezzo": "€ 60,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Pas Dosè Conti Ducco ",
+            "prezzo": "€ 50,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Berlucchi Cuvée Imperiale",
+            "prezzo": "€ 50,00",
+            "descrizione": ""
+          }
+        ],
+        "LE NOSTRE BOLLICINE": [
+          {
+            "nome": "Brachetto d'Aqui D.O.C.G",
+            "prezzo": "€ 35,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Prosecco D.O.C.G Conegliano e Valdobbiadene",
+            "prezzo": "€ 35,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Kami Calafè Fiano e Greco Metodo Classico",
+            "prezzo": "€ 40,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Griseo Cantine del Mare",
+            "prezzo": "€ 28,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Durello Zambon Extra Brut",
+            "prezzo": "€ 40,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Col De Mez Rosè Soligo",
+            "prezzo": "€ 35,00",
+            "descrizione": ""
+          }
+        ]
+      }
+    },
+    "Distillati": {
+      "sottocategorie": {
+        "GIN": [
+          {
+            "nome": "Bombay ",
+            "prezzo": "€ 7,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Elephant ",
+            "prezzo": "€ 12,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Endrick's ",
+            "prezzo": "€ 9,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Gin Mare ",
+            "prezzo": "€ 9,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Gin Del Professore ",
+            "prezzo": "€ 11,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Monkey 47",
+            "prezzo": "€ 12,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Tanqueray ",
+            "prezzo": "€ 8,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Roku ",
+            "prezzo": "€ 10,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Martin Millers",
+            "prezzo": "€ 10,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Bulldog",
+            "prezzo": "€ 9,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Kinobi",
+            "prezzo": "€ 10,00",
+            "descrizione": ""
+          }
+        ],
+        "RUM": [
+          {
+            "nome": "Diplomatico ",
+            "prezzo": "€ 8,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Eldorado ",
+            "prezzo": "€ 8,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "J Bally",
+            "prezzo": "€ 9,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Havana 7 ",
+            "prezzo": "€ 7,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "S. Teresa 1876",
+            "prezzo": "€ 10,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Zacapa 23",
+            "prezzo": "€ 15,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Zacapa XO",
+            "prezzo": "€ 18,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Kraaken ",
+            "prezzo": "€ 8,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Don Papa Baroko",
+            "prezzo": "€ 9,00",
+            "descrizione": ""
+          }
+        ],
+        "AMARI": [
+          {
+            "nome": "Amari ",
+            "prezzo": "€ 7,00",
+            "descrizione": ""
+          }
+        ],
+        "VODKA": [
+          {
+            "nome": "Beluga ",
+            "prezzo": "€ 10,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Belvedere ",
+            "prezzo": "€ 14,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Grey Goose ",
+            "prezzo": "€ 16,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Moskovskaya",
+            "prezzo": "€ 6,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Stolichnaya",
+            "prezzo": "€ 6,00",
+            "descrizione": ""
+          }
+        ],
+        "BRANDY": [
+          {
+            "nome": "Cardenal Mendoza ",
+            "prezzo": "€ 7,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Stravecchio ",
+            "prezzo": "€ 4,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Bas Armagnac ",
+            "prezzo": "€ 9,00",
+            "descrizione": ""
+          }
+        ],
+        "COGNAC": [
+          {
+            "nome": "Courvoisier V.S.O.P. ",
+            "prezzo": "€ 9,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Hennessy ",
+            "prezzo": "€ 9,00",
+            "descrizione": ""
+          }
+        ],
+        "GRAPPE": [
+          {
+            "nome": "Nonino 1897 (Bianca) ",
+            "prezzo": "€ 8,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Prime Uve (Bianca) ",
+            "prezzo": "€ 9,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Sarpa di Poli (Bianca) ",
+            "prezzo": "€ 9,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Berta Villa Prato (Bianca) ",
+            "prezzo": "€ 7,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Berta Elisi (Barricata)",
+            "prezzo": "€ 10,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Berta Villa Prato (Barricata)",
+            "prezzo": "€ 7,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Berta Roccanivo (Barricata) ",
+            "prezzo": "€ 12,00",
+            "descrizione": ""
+          }
+        ],
+        "WHISKY": [
+          {
+            "nome": "Talisker ",
+            "prezzo": "€ 14,00 ",
+            "descrizione": ""
+          },
+          {
+            "nome": "Lagavulin ",
+            "prezzo": "€ 16,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Oban ",
+            "prezzo": "€ 12,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Canadian Club ",
+            "prezzo": "€ 7,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Drambuie ",
+            "prezzo": "€ 6,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Chivas ",
+            "prezzo": "€ 7,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Four Roses (Bourbon) ",
+            "prezzo": "€ 6,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Jack Daniel's ",
+            "prezzo": "€ 6,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Nikka ",
+            "prezzo": "€ 12,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Bullet Rye ",
+            "prezzo": "€ 10,00 ",
+            "descrizione": ""
+          },
+          {
+            "nome": "Wild Turkey 10 Anni",
+            "prezzo": "€ 10,00",
+            "descrizione": ""
+          },
+          {
+            "nome": "Johnnie Walker Doubleblack ",
+            "prezzo": "€ 10,00",
+            "descrizione": ""
+          }
+        ]
+      }
+    },
+    "Caffetteria": {
+      "prodotti": [
+        {
+          "nome": "Caffè",
+          "prezzo": "€ 2,50",
+          "descrizione": ""
+        },
+        {
+          "nome": "Caffè Decaffeinato ",
+          "prezzo": "€ 3,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Caffè con Panna",
+          "prezzo": "€ 3,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Caffè Kinder",
+          "prezzo": "€ 4,50 ",
+          "descrizione": ""
+        },
+        {
+          "nome": "Caffè Nutella ",
+          "prezzo": "€ 4,50 ",
+          "descrizione": ""
+        },
+        {
+          "nome": "Caffè Orzo ",
+          "prezzo": "€ 3,50",
+          "descrizione": ""
+        },
+        {
+          "nome": "Caffè Shakerato ",
+          "prezzo": "€ 3,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Caffè Ginseng ",
+          "prezzo": "€ 3,50",
+          "descrizione": ""
+        },
+        {
+          "nome": "Cioccolata Calda ",
+          "prezzo": "€ 6,00",
+          "descrizione": "Vari gusti "
+        },
+        {
+          "nome": "Cappuccino ",
+          "prezzo": "€ 3,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Cappuccino Kinder",
+          "prezzo": "€ 4,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Cappuccino Nutella",
+          "prezzo": "€ 4,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Cornetto ",
+          "prezzo": "€ 1,50",
+          "descrizione": ""
+        },
+        {
+          "nome": "Thè Caldo ",
+          "prezzo": "€ 5,00",
+          "descrizione": ""
+        },
+        {
+          "nome": "Supplemento biscotti",
+          "prezzo": "€ 1,00",
+          "descrizione": ""
+        }
+      ]
+    }
+  }
+}
