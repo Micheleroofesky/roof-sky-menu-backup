@@ -46,12 +46,7 @@
       ]
     },
     "Cocktail": {
-      "MARTINI": [
-        {
-          "testo": "TEST BACKUP - AVVISO TEMPORANEO",
-          "attivo": true
-        }
-      ],
+      "MARTINI": [],
       "PESTATI": [],
       "PROIBITI": [],
       "__root__": [],
