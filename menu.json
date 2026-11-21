@@ -3,6 +3,60 @@
     "Info": "Fino alle ore 10:30 la colazione ai tavoli è servita con i prezzi del banco.\n\nDa Maggio a Settembre (Condizioni metereologiche permettendo) nelle ore serali il Roof&Sky salperà per poi ormeggiare al centro del lago fino ad orario di chiusura.\n\nIn qualsiasi momento dal molo sarà possibile raggiungerci tramite le nostre navette.\n\nServizio ai tavoli € 3,00 quando non attaccati al pontile.\n\nIn navigazione la caffetteria resta chiusa.",
     "Allergeni": "Elenco Allergeni per i quali sussiste l'obbligo di indicazione in etichetta, Allegato III bis (Direttiva 2003/89/CE e ss. mm.)\n\nGLUTINE\nCereali, grano, segale, orzo, avena, farro, kamut, ınclusı ibridati e derivati.\n\nCROSTACEI E DERIVATI\nSia quelli marini che d'acqua dolce: gamberi, scampi, aragoste, granchi, paguri e simili.\n\nUOVA E DERIVATI\nTutti i prodotti composti con uova, anche in parte minima. Tra le più comuni: maionese, frittata, emulsionanti, pasta all'uovo, biscotti e torte anche salate, gelati e creme ecc.\n\nPESCE E DERIVAȚI\nInclusi i derivati, cioè tutti quei prodotti alimentari che si compongono di pesce anche se in piccole percentuali.\n\nARACHIDI E DERIVATI\nSnack confezionati, creme e condimenti in cui vi sia anche in piccole dosi.\n\nSOIA E DERIVATI\nLatte, tofu, spaghetti, etc.\n\nLATTE E DERIVATI\nYogurt, biscotti e torte, gelato e creme varie. Ogni prodotto in cui viene usato il latte.\n\nFRUTTA A GUSCIO E DERIVATI\nTutti i prodotti che includono: mandorle, nocciole, noci comuni, noci di acagiù, noci pecan e del Brasile e Queensland, pistacchi.\n\nSEDANO E DERIVATI\nPresente in pezzi ma pure all'interno di preparati per zuppe, salse e concentrati vegetali.\n\nSENAPE E DERIVATI\nSi può trovare nelle salse e nei condimenti, specie nella mostarda.\n\nSEMI DI SESAMO E DERIVATI\nOltre ai semi interi usati per il pane, possiamo trovare tracce in alcuni tipi di farine.\n\nANIDRIDE SOLFOROSA E SOLFITI IN CONCENTRAZIONI SUPERIORI A 10MG/KG O 10MG/L ESPRESSI COME S02\nUsati come conservanti, possiamo trovarli in: conserve di prodotti ittici, in cibi sott'aceto, sott'olio e in salamoia, nelle marmellate, nell'aceto, nei funghi secchi e nelle bibite analcoliche e succhi di frutta.\n\nLUPINO E DERIVATI\nPresente ormai in molti cibi vegan, sotto forma di arrosti, salamini, farine e similari che hanno come base questo legume, ricco di proteine.\n\nMOLLUSCHI E DERIVATI\nCanestrello, cannolicchio, capasanta, cuore, dattero di mare, fasolaro, garagolo, lumachino, cozza, murice, ostrica, patella, tartufo di mare, tellina e vongola etc."
   },
+  "avvisi": {
+    "Food": {
+      "__root__": []
+    },
+    "COCKTAIL": {
+      "MARTINI": [
+        {
+          "testo": "Distillati premium disponibili con supplemento",
+          "attivo": true
+        }
+      ],
+      "PESTATI": [
+        {
+          "testo": "Distillati premium disponibili con supplemento",
+          "attivo": true
+        }
+      ],
+      "PROIBITI": [
+        {
+          "testo": "Distillati premium disponibili con supplemento",
+          "attivo": true
+        }
+      ],
+      "SIGNATURE": [
+        {
+          "testo": "Distillati premium disponibili con supplemento",
+          "attivo": true
+        }
+      ],
+      "CONTEMPORANEI": [
+        {
+          "testo": "Distillati premium disponibili con supplemento",
+          "attivo": true
+        }
+      ],
+      "QUELLI CHE VERRANNO": [
+        {
+          "testo": "Distillati premium disponibili con supplemento",
+          "attivo": true
+        }
+      ]
+    },
+    "Cocktail": {
+      "MARTINI": [],
+      "PESTATI": [],
+      "PROIBITI": [],
+      "__root__": [],
+      "SIGNATURE": [],
+      "SPARKLING": [],
+      "ANALCOLICI": [],
+      "CONTEMPORANEI": [],
+      "QUELLI CHE VERRANNO": []
+    }
+  },
   "sezioni": {
     "Food": {
       "sottocategorie": {
@@ -125,134 +179,160 @@
           {
             "nome": "Piedirosso Campi Flegrei La Sibilla",
             "prezzo": "€ 20,00",
-            "descrizione": "Campania"
+            "regione": "Campania",
+            "descrizione": ""
           },
           {
             "nome": "Aglianico Villa Raiano",
             "prezzo": "€ 28,00",
-            "descrizione": "Campania"
+            "regione": "Campania",
+            "descrizione": ""
           },
           {
             "nome": "Tirannus Primitivo di Manduria Torleanzi",
             "prezzo": "€ 28,00",
-            "descrizione": "Puglia"
+            "regione": "Puglia",
+            "descrizione": ""
           },
           {
             "nome": "Nero d'Avola Colosi",
             "prezzo": "€ 26,00",
-            "descrizione": "Sicilia"
+            "regione": "Sicilia",
+            "descrizione": ""
           },
           {
             "nome": "Merlot Casali Roncali",
             "prezzo": "€ 25,00",
-            "descrizione": "Friuli Venezia Giulia"
+            "regione": "Friuli Venezia Giulia",
+            "descrizione": ""
           }
         ],
         "VINI BIANCHI": [
           {
             "nome": "Falangina Campi Flegrei DOP",
             "prezzo": "€ 20,00",
-            "descrizione": "Campania"
+            "regione": "Campania",
+            "descrizione": ""
           },
           {
             "nome": "Biancolella Mazzella",
             "prezzo": "€ 30,00",
-            "descrizione": "Campania"
+            "regione": "Campania",
+            "descrizione": ""
           },
           {
             "nome": "Fiano Villa Raiano",
             "prezzo": "€ 28,00",
-            "descrizione": "Campania"
+            "regione": "Campania",
+            "descrizione": ""
           },
           {
             "nome": "Fiano Cavalier Pepe",
             "prezzo": "€ 36,00",
-            "descrizione": "Campania"
+            "regione": "Campania",
+            "descrizione": ""
           },
           {
             "nome": "Kratos Fiano Luigi Maffini",
             "prezzo": "€ 38,00",
-            "descrizione": "Campania"
+            "regione": "Campania",
+            "descrizione": ""
           },
           {
             "nome": "Fiano Guido Marsella",
             "prezzo": "€ 40,00",
-            "descrizione": "Campania"
+            "regione": "Campania",
+            "descrizione": ""
           },
           {
             "nome": "Exultet Fiano Quinto Decimo",
             "prezzo": "€ 65,00",
-            "descrizione": "Campania"
+            "regione": "Campania",
+            "descrizione": ""
           },
           {
             "nome": "Greco Villa Raiano",
             "prezzo": "€ 28,00",
-            "descrizione": "Campania"
+            "regione": "Campania",
+            "descrizione": ""
           },
           {
             "nome": "Greco Cavalier Pepe",
             "prezzo": "€ 36,00",
-            "descrizione": "Campania"
+            "regione": "Campania",
+            "descrizione": ""
           },
           {
             "nome": "Greco Guido Marsella",
             "prezzo": "€ 40,00",
-            "descrizione": "Campania"
+            "regione": "Campania",
+            "descrizione": ""
           },
           {
             "nome": "Asprinio d'Aversa Guisa Terra Felix",
             "prezzo": "€ 30,00",
-            "descrizione": "Campania"
+            "regione": "Campania",
+            "descrizione": ""
           },
           {
             "nome": "Mar Isa Bianco IGT Marisa Cuomo",
             "prezzo": "€ 28,00",
-            "descrizione": "Campania"
+            "regione": "Campania",
+            "descrizione": ""
           },
           {
             "nome": "Pecorino Faraone",
             "prezzo": "€ 25,00",
-            "descrizione": "Abruzzo"
+            "regione": "Abruzzo",
+            "descrizione": ""
           },
           {
             "nome": "Pecorino Pasetti",
             "prezzo": "€ 27,00",
-            "descrizione": "Abruzzo"
+            "regione": "Abruzzo",
+            "descrizione": ""
           },
           {
             "nome": "Don Bosco Trebbiano d'Abruzzo Nestore Bosco",
             "prezzo": "€ 28,00",
-            "descrizione": "Abruzzo"
+            "regione": "Abruzzo",
+            "descrizione": ""
           },
           {
             "nome": "Passo alle Tremiti Sauvignon Tenimenti Grieco",
             "prezzo": "€ 25,00",
-            "descrizione": "Marche"
+            "regione": "Marche",
+            "descrizione": ""
           },
           {
             "nome": "Tre Ripe Verdicchio dei Castelli di Jesi Pievalta",
             "prezzo": "€ 28,00",
-            "descrizione": "Marche"
+            "regione": "Marche",
+            "descrizione": ""
           },
           {
             "nome": "Cervaro della Sala Antinori",
             "prezzo": "€ 85,00",
-            "descrizione": "Umbria"
+            "regione": "Umbria",
+            "descrizione": ""
           },
           {
             "nome": "K Collio Keber Edi",
             "prezzo": "€ 40,00",
-            "descrizione": "Friuli Venezia Giulia"
+            "regione": "Friuli Venezia Giulia",
+            "descrizione": ""
           },
           {
             "nome": "Merus Pinot Grigio Tiefenbrunner",
             "prezzo": "€ 28,00",
-            "descrizione": "Trentino Alto Adige"
+            "regione": "Trentino Alto Adige",
+            "descrizione": ""
           },
           {
             "nome": "Traminer Aromatico Tramin",
             "prezzo": "€ 30,00",
-            "descrizione": "Trentino Alto Adige"
+            "regione": "Trentino Alto Adige",
+            "descrizione": ""
           }
         ]
       }
