@@ -46,15 +46,45 @@
       ]
     },
     "Cocktail": {
-      "MARTINI": [],
-      "PESTATI": [],
-      "PROIBITI": [],
+      "MARTINI": [
+        {
+          "testo": "Distillati premium disponibili con supplemento",
+          "attivo": true
+        }
+      ],
+      "PESTATI": [
+        {
+          "testo": "Distillati premium disponibili con supplemento",
+          "attivo": true
+        }
+      ],
+      "PROIBITI": [
+        {
+          "testo": "Distillati premium disponibili con supplemento",
+          "attivo": true
+        }
+      ],
       "__root__": [],
-      "SIGNATURE": [],
+      "SIGNATURE": [
+        {
+          "testo": "Distillati premium disponibili con supplemento",
+          "attivo": true
+        }
+      ],
       "SPARKLING": [],
       "ANALCOLICI": [],
-      "CONTEMPORANEI": [],
-      "QUELLI CHE VERRANNO": []
+      "CONTEMPORANEI": [
+        {
+          "testo": "Distillati premium disponibili con supplemento",
+          "attivo": true
+        }
+      ],
+      "QUELLI CHE VERRANNO": [
+        {
+          "testo": "Distillati premium disponibili con supplemento",
+          "attivo": true
+        }
+      ]
     }
   },
   "sezioni": {
